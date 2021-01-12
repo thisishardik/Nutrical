@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079981128384",
+    "firebase_url": "https://nutrical-be290.firebaseio.com",
+    "project_id": "nutrical-be290",
+    "storage_bucket": "nutrical-be290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079981128384:android:09d3d8ced45d25e988cb25",
+        "android_client_info": {
+          "package_name": "com.example.nutrical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079981128384-2p6b8iacl95thppqhkbq6774eb6vpdgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nutrical",
+            "certificate_hash": "99bf7288455540179c6ebb6733acc602c4e8e6b2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3QRU0a7EwO1XkkTJ3EFiPH_ukxqxAZNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
